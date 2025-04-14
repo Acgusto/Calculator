@@ -32,7 +32,7 @@
  <div class="container text-center">
   <header>
    <h1 class="mt-1">
-   Calculadora Aritmética
+   Calculadora Aritmética v1.0
   </h1>
   </header>
   <main class="d-flex justify-content-center">
